@@ -1,0 +1,8 @@
+{
+  "AppVersion": "1.0.0",
+  "CatalogVersion": "2026.10.30.1",
+  "ReleaseNotes": "Phiên bản 1.0.0: Khởi chạy chính thức trên kho lưu trữ hotromwg/applaptop.",
+  "CatalogUrl": "https://raw.githubusercontent.com/hotromwg/applaptop/main/catalog.json",
+  "PackageZipUrl": "https://github.com/hotromwg/applaptop/releases/latest/download/LaptopSetupPro_Update.zip",
+  "ForceUpdate": false
+}
